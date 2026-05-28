@@ -146,7 +146,6 @@ The 64-bit choice maximizes entropy per byte while maintaining optimal cache res
 
 ### 5\. Practical Throughput Impact
 
-```text
 
 With 64-bit gear table:
 - L1 hit: 1-3 cycles
